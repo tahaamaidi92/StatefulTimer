@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/StatefulTimer/static/css/main.664dffdd.chunk.css",
+    "main.js": "/StatefulTimer/static/js/main.cd33ff26.chunk.js",
+    "main.js.map": "/StatefulTimer/static/js/main.cd33ff26.chunk.js.map",
+    "runtime~main.js": "/StatefulTimer/static/js/runtime~main.6494b3d2.js",
+    "runtime~main.js.map": "/StatefulTimer/static/js/runtime~main.6494b3d2.js.map",
+    "static/js/2.98dcc9dd.chunk.js": "/StatefulTimer/static/js/2.98dcc9dd.chunk.js",
+    "static/js/2.98dcc9dd.chunk.js.map": "/StatefulTimer/static/js/2.98dcc9dd.chunk.js.map",
+    "index.html": "/StatefulTimer/index.html",
+    "precache-manifest.0ad351a78987fcc56b19819f03dd3829.js": "/StatefulTimer/precache-manifest.0ad351a78987fcc56b19819f03dd3829.js",
+    "service-worker.js": "/StatefulTimer/service-worker.js",
+    "static/css/main.664dffdd.chunk.css.map": "/StatefulTimer/static/css/main.664dffdd.chunk.css.map",
+    "static/media/timer.css": "/StatefulTimer/static/media/303216_thumb.3a084a40.png",
+    "static/media/tech-talk-on-reactjs-1-638.jpg": "/StatefulTimer/static/media/tech-talk-on-reactjs-1-638.48bc417a.jpg"
+  }
+}
